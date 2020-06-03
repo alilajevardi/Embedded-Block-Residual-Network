@@ -22,11 +22,10 @@ You can download [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) training and
 As it is tested, the program works with python 3.6-3.8 and tensorflow 2.0-2.2.
 You can install Anaconda and create a new environment with
 
-conda env create -f environment.yml
-
-
+    conda env create -f env.yml
 then activate it with
-conda activate ebrn
+
+    conda activate ebrn
 
 # Model with 4 BRM units
 The EBRN model with 4 BRM units created via graphviz and pydot: ![picture](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/SR_EBRNet_v02.1.png)
