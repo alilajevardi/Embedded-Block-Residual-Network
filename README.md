@@ -6,7 +6,7 @@ The EBRN was reported in the original paper here (https://ieeexplore.ieee.org/ab
 
 # Getting started
 The jupyter file of [Implementation_v02.1.ipynb](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/Implementation_v02.1.ipynb) is the start point.
-To start training, div2k images need to be dwonloded, inzipped and stored in /.div2k/images folder. Currently the scale of 4 (X4) is activated. Thus the following folders need to be present:
+To start training, div2k images need to be dwonloded, unzipped and stored in /.div2k/images folder. Currently the scale of 4 (X4) is activated. Thus the following folders need to be present:
 
 /DIV2K_train_HR
 
