@@ -6,4 +6,4 @@ The EBRM is reported in the original paper here (https://ieeexplore.ieee.org/abs
 
 The jupyter file of Implementation_v02.1.ipynb is the start point.
 
-![The EBRN model with 4 BRM units:](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/SR_EBRNet_v02.1.png)
+The EBRN model with 4 BRM units created via graphvia and pydot: ![picture](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/SR_EBRNet_v02.1.png)
