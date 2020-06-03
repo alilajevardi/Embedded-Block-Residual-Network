@@ -5,3 +5,5 @@ This repository is a try to implement the EBRM model through Tensorflow and Kera
 The EBRM is reported in the original paper here (https://ieeexplore.ieee.org/abstract/document/9010860) and some review study shows its power in super-resolution.
 
 The jupyter file of Implementation_v02.1.ipynb is the start point.
+
+![The EBRN model with 4 BRM units:] (https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/SR_EBRNet_v02.1.png)
