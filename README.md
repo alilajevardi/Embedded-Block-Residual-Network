@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 EBRN is a recursive restoration model for single-image super-resolution
 This repository is a try to implement the EBRN model through Tensorflow 2.x and Keras API. As mentioned in the paper, the model was originally implemented on Pythorch, however their original code is not publicly available.
 
