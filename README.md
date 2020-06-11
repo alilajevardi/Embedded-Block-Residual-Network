@@ -28,7 +28,7 @@ then activate it with
     conda activate ebrn
 
 # Model with 4 BRM units
-The block residual module (BRM) as described in [here])(http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf):
+The block residual module (BRM) as described in [here](http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf):
 
 ![BEM unit](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/BRMx.png)
 
