@@ -38,12 +38,13 @@ The EBRN model with 4 BRM units created via graphviz and pydot: ![picture](https
 
 # Citation
 If this immplementation works for you, please cite it in your publications.
-@misc{lajevardipour2020ebrn,
+```@misc{lajevardipour2020ebrn,
   title={EBRN},
   author={Alireza Lajevardipour},
   year={2020},
   howpublished={\url{https://github.com/alilajevardi/Embedded-Block-Residual-Network}},
 }
+```
 
 # Copyright
 See [LICENSE](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/License) for details.
