@@ -38,7 +38,7 @@ The EBRN model with 4 BRM units created via graphviz and pydot: ![picture](https
 
 # Citation
 If this immplementation works for you, please cite it in your publications.
-```LaTex
+```bibtex
 @misc{lajevardipour2020ebrn,
   title={EBRN},
   author={Alireza Lajevardipour},
