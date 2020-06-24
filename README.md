@@ -34,3 +34,16 @@ The following figure demonstrates the block residual module (BRM) and the embedd
 
 
 The EBRN model with 4 BRM units created via graphviz and pydot: ![picture](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/assets/SR_EBRNet_v02.1.png)
+
+
+# Citation
+If this immplementation works for you, please cite it in your publications.
+@misc{lajevardipour2020ebrn,
+  title={EBRN},
+  author={Alireza Lajevardipour},
+  year={2020},
+  howpublished={\url{https://github.com/alilajevardi/Embedded-Block-Residual-Network}},
+}
+
+# Copyright
+See [LICENSE](https://github.com/alilajevardi/Embedded-Block-Residual-Network/blob/master/License) for details.
